@@ -1,1 +1,1 @@
-# pyhton-sms
+# python-sms
